@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\27609\\Desktop\\CarRental\\CarRental.Dal\\CarRental.Dal.csproj": {}
+    "C:\\Users\\27609\\Desktop\\CarRental\\CarRent.WebAPI\\CarRent.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\27609\\Desktop\\CarRental\\CarRental.Dal\\CarRental.Dal.csproj": {
+    "C:\\Users\\27609\\Desktop\\CarRental\\CarRent.WebAPI\\CarRent.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\27609\\Desktop\\CarRental\\CarRental.Dal\\CarRental.Dal.csproj",
-        "projectName": "CarRental.Dal",
-        "projectPath": "C:\\Users\\27609\\Desktop\\CarRental\\CarRental.Dal\\CarRental.Dal.csproj",
+        "projectUniqueName": "C:\\Users\\27609\\Desktop\\CarRental\\CarRent.WebAPI\\CarRent.WebAPI.csproj",
+        "projectName": "CarRent.WebAPI",
+        "projectPath": "C:\\Users\\27609\\Desktop\\CarRental\\CarRent.WebAPI\\CarRent.WebAPI.csproj",
         "packagesPath": "C:\\Users\\27609\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\27609\\Desktop\\CarRental\\CarRental.Dal\\obj\\",
+        "outputPath": "C:\\Users\\27609\\Desktop\\CarRental\\CarRent.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,26 +49,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.InMemory": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
