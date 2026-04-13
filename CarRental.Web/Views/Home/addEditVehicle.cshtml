@@ -1,0 +1,31 @@
+﻿@using CarRental.Dal
+@model Vehicle
+
+@{
+    ViewData["Title"] = "Add or edit Vehicle";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Add or edit Vehicle</h1>
+    <p></p>
+</div>
+
+<body>
+    <form class="mt-4" method="post" asp-controller="Home" asp-action="addEditVehicleForm">
+        <input type="hidden" asp-for="ID" />
+
+        <label>Brand</label>
+        <input class="form-control" type="text" placeholder="E.g. Mercedes Benz" asp-for="brand" />
+
+        <label>Year</label>
+        <input class="form-control" type="text" placeholder="Year" asp-for="year" />
+
+        <label>Mileage</label>
+        <input class="form-control" type="number" placeholder="Enter Mileage" asp-for="mileage" />
+
+        <label>Price</label>
+        <input class="form-control" type="number" placeholder="Enter Price" asp-for="price" />
+
+        <button class="btn-primary" type="submit">OKAY</button>
+    </form>
+</body>

@@ -1,0 +1,14 @@
+C:\Users\27609\Desktop\CarRental\CarRental.Dal\bin\Debug\net8.0\CarRental.Dal.deps.json
+C:\Users\27609\Desktop\CarRental\CarRental.Dal\bin\Debug\net8.0\CarRental.Dal.dll
+C:\Users\27609\Desktop\CarRental\CarRental.Dal\bin\Debug\net8.0\CarRental.Dal.pdb
+C:\Users\27609\Desktop\CarRental\CarRental.Dal\obj\Debug\net8.0\CarRental.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\27609\Desktop\CarRental\CarRental.Dal\obj\Debug\net8.0\CarRental.Dal.AssemblyInfoInputs.cache
+C:\Users\27609\Desktop\CarRental\CarRental.Dal\obj\Debug\net8.0\CarRental.Dal.AssemblyInfo.cs
+C:\Users\27609\Desktop\CarRental\CarRental.Dal\obj\Debug\net8.0\CarRental.Dal.csproj.CoreCompileInputs.cache
+C:\Users\27609\Desktop\CarRental\CarRental.Dal\obj\Debug\net8.0\CarRental.Dal.dll
+C:\Users\27609\Desktop\CarRental\CarRental.Dal\obj\Debug\net8.0\refint\CarRental.Dal.dll
+C:\Users\27609\Desktop\CarRental\CarRental.Dal\obj\Debug\net8.0\CarRental.Dal.pdb
+C:\Users\27609\Desktop\CarRental\CarRental.Dal\obj\Debug\net8.0\ref\CarRental.Dal.dll
+C:\Users\27609\Desktop\CarRental\CarRental.Dal\bin\Debug\net8.0\CarRental.Dal.runtimeconfig.json
+C:\Users\27609\Desktop\CarRental\CarRental.Dal\obj\Debug\net8.0\CarRental.Dal.csproj.AssemblyReference.cache
+C:\Users\27609\Desktop\CarRental\CarRental.Dal\obj\Debug\net8.0\CarRental.Dal.genruntimeconfig.cache
